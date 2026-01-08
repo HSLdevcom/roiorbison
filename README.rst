@@ -1,3 +1,9 @@
+***********
+⚠ ARCHIVED
+***********
+
+This repository is archived and read-only. For active development, go to `Transitdata <https://github.com/HSLdevcom/transitdata>`_.
+
 **********
 roiorbison
 **********
